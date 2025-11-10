@@ -64,8 +64,8 @@ Time 45s → happy (97.2%) | Blink:1 Mouth:0.03
 ** Eyebrow raises detected: 10
 
 💡 Mood Improvement Tips:
-** Your overall mood seemed mostly: HAPPY
-** 😊 Keep it up! Share your happiness with others or do something creative.
+**Your overall mood seemed mostly: HAPPY
+**😊 Keep it up! Share your happiness with others or do something creative.
 
 ---
 ## 👩‍💻 Author
