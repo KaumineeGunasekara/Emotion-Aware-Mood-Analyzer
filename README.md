@@ -46,13 +46,13 @@ python main.py
 ```
 
 Press 'q' to exit the webcam early.
-
-###Output Files
+---
+## Output Files
 emotion_results.csv → detailed frame-by-frame data
 dominant_emotion_timeline.png → timeline chart of detected emotions
 mood_tips.txt → (optional) generated mood improvement advice
-
-###💡 Example Console Output
+---
+## 💡 Example Console Output
 Time 45s → happy (97.2%) | Blink:1 Mouth:0.03
 
 --- Facial Feature Summary ---
@@ -66,5 +66,5 @@ Eyebrow raises detected: 10
 Your overall mood seemed mostly: HAPPY
 😊 Keep it up! Share your happiness with others or do something creative.
 
-###👩‍💻 Author
+👩‍💻 Author
 Kauminee Gunasekara
