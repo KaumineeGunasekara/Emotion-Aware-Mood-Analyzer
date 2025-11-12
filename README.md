@@ -28,7 +28,7 @@ It analyzes a user's **emotions**, **eye blinks**, **mouth movements**, **eyebro
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://https://github.com/KaumineeGunasekara/Emotion-Aware-Mood-Analyzer.git
+git clone //https://github.com/KaumineeGunasekara/Emotion-Aware-Mood-Analyzer.git
 cd Emotion-Aware-Mood-Analyzer
 ```
 ### 2️⃣ Create a virtual environment
