@@ -1,0 +1,8 @@
+tensorflow-cpu==2.13.0
+deepface==0.0.95
+mediapipe==0.10.21
+numpy==1.24.3
+pandas==2.1.1
+...
+
+
